@@ -1,6 +1,6 @@
 import csv
 import os
-
+# ---File where all product data  will be stored---
 PRODUCTS_FILE = 'products.csv'
 
 def load_products():
@@ -44,4 +44,5 @@ def search_product(keyword):
     for prod in load_products():
         if keyword.lower() in prod['Name'].lower() or keyword == prod['ID']:
             results.append(prod)
+
     return results
