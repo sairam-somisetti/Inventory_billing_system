@@ -240,6 +240,8 @@ Total Sales: 5400.00
 # screenshots:
 <img width="1854" height="962" alt="Image" src="https://github.com/user-attachments/assets/38a63fe8-4f9b-4574-9712-f1250594b4c8" />
 
+<img width="519" height="913" alt="Image" src="https://github.com/user-attachments/assets/0dc1eaae-c25e-43d1-aad9-862391c948fe" />
+
 ## 🎯 Business Benefits
 
 ### Operational Efficiency
