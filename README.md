@@ -268,3 +268,9 @@ Total Sales: 5400.00
 ## 📝 License & Contribution
 This project is open for educational and commercial use. Developers are encouraged to extend functionality and contribute improvements.
 *This Inventory Management System provides a complete, professional solution for businesses seeking to digitalize their inventory and sales processes with a reliable, easy-to-use console application.*
+
+📩 Contact
+👨‍💻 Developer: SAIRAM SOMISETTI
+📧 Email: somisettisairam@gmail.com
+🌐 GitHub: https://github.com/sairam-somisetti
+💡 Feel free to fork, contribute, or drop a message if you have ideas to improve this project!
