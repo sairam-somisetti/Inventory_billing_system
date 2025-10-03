@@ -237,6 +237,8 @@ Total Sales: 5400.00
 {'ID': '123', 'Qty': '2', 'Amount': '4000.0'}
 {'ID': '2345', 'Qty': '1', 'Amount': '2000.0'}
 ```
+# screenshots:
+<img width="1854" height="962" alt="Image" src="https://github.com/user-attachments/assets/38a63fe8-4f9b-4574-9712-f1250594b4c8" />
 
 ## 🎯 Business Benefits
 
